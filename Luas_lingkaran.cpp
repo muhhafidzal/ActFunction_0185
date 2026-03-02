@@ -4,6 +4,7 @@ using namespace std;
 
 //deklarasi variabel global;
 int r;
+float phi
 
 //implementasi fungsi dan prosedur 
 void input (){
