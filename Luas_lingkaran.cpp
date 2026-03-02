@@ -10,3 +10,6 @@ void input (){
     cout <<"Masukkan jari-jari =";
     cin >> r;
 }
+float luaslingkaran(float a){
+    return 3.14159 * a * a;
+}
