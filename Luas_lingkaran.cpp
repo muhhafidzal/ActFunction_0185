@@ -16,3 +16,7 @@ float luaslingkaran(float a){
 void output(){
     cout << "Hasilnya : " << luaslingkaran(r);
 }
+int main(){
+    input();
+    output();
+}//selesai
